@@ -184,7 +184,7 @@ public class ConversorMonedas extends JFrame {
             }
         });
         
-       
+        //Contenido de la ventana del programa  
         setTitle("Conversor de Monedas");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 300);
