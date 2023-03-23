@@ -1,6 +1,5 @@
 
 import javax.swing.*;
-
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -184,8 +183,8 @@ public class ConversorMonedas extends JFrame {
             }
         });
         
-        //Contenido de la ventana del programa  
-        setTitle("Conversor de Monedas");
+       
+        setTitle("Conversor de Divisas");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 300);
         setLocationRelativeTo(null);
